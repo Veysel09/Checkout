@@ -17,3 +17,33 @@ main {
   text-align: center;
   margin: 15px 0;
 }
+
+main form {
+  margin-right: 150px;
+  position: relative;
+  width: 80%;
+}
+
+.data-form {
+  font-family: Mon;
+  position: relative;
+  display: block;
+}
+
+.data-form h1 {
+  font-size: 18px;
+  color: #333;
+  margin: 15px 0;
+}
+
+.data-form .campo {
+  margin: 10px 0;
+}
+
+.data-form .campo label {
+  font-size: 12px;
+  color: #4f4f4f;
+  margin: 10px 0;
+  position: relative;
+  display: block;
+}
