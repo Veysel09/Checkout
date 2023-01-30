@@ -47,3 +47,24 @@ main form {
   position: relative;
   display: block;
 }
+.data-form .campo .input-field {
+  position: relative;
+}
+
+.data-form .campo .input-field input {
+  border: 1px solid #828282;
+  padding: 8px 5px 8px 35px;
+  color: #828282;
+  font-size: 14px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.data-form .campo .input-field i {
+  position: absolute;
+  color: #828282;
+  font-size: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 3%;
+}
